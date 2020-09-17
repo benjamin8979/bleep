@@ -1,0 +1,1 @@
+std::string bleep(std::string banned_word, std::string &taboo_text);
